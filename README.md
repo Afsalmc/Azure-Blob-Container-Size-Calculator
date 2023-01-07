@@ -9,11 +9,11 @@ Step 2 : Set Default Subsciption
 
 ``PS > Set-AzContext My_SubscriptionName``
 
-Step 3 : Edit bloblen.ps to point your resource group and storage account for varibles ``$resourceGroup`` and ``$storageAccountName`` respectively. 
+Step 3 : Edit containerlen.ps1 to point your resource group and storage account for varibles ``$resourceGroup`` and ``$storageAccountName`` respectively. 
 
-Step 4 : run bloblen.ps script
+Step 4 : run containerlen.ps1 script
 
-``PS >  .\bloblen.ps``
+``PS >  .\containerlen.ps1``
 
 
 
